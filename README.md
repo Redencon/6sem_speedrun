@@ -32,7 +32,7 @@ Have a nice day reading all of this!
 | 1. Linux | 0:21:50 |
 | 2. Review | 0:25:32 |
 | 3. FIO | 0:13:58 |
-| 4. sys & argparse | - |
+| 4. sys & argparse | 0:26:07 |
 | 5. OOP - UML | - |
 | 6. OOP - special | - |
 | 7. OOP - ABC | - |
