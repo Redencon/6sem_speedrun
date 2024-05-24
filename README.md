@@ -34,7 +34,7 @@ Have a nice day reading all of this!
 | 3. FIO | 0:13:58 |
 | 4. sys & argparse | 0:26:07 |
 | 5. OOP - UML | 0:33:56 |
-| 6. OOP - special | - |
+| 6. OOP - special | 0:45:43 |
 | 7. OOP - ABC | - |
 | 8. Generators | - |
 | 9. Iterators | - |
