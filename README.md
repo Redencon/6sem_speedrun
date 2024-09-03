@@ -36,7 +36,7 @@ Have a nice day reading all of this!
 | 5. OOP - UML | 0:33:56 |
 | 6. OOP - special | 0:45:43 |
 | 7. OOP - ABC | - |
-| 8. Generators | - |
+| 8. Generators | 0:27:16 |
 | 9. Iterators | - |
 | 10. asyncio | - |
 | 11. threading | - |
@@ -55,3 +55,4 @@ Have a nice day reading all of this!
 | 24. scikit-learn - post-editing | - |
 | 25. scikit-learn - hypotheses | - |
 | 26. scikit-learn - NN and DL | - |
+| FIN. ML project | - |
