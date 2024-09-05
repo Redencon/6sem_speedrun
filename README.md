@@ -40,7 +40,7 @@ Have a nice day reading all of this!
 | 9. Iterators | - |
 | 10. asyncio | - |
 | 11. threading | - |
-| 12. re | - |
+| 12. re | 1:31:02 |
 | 13. pickle | - |
 | 14. Sockets | - |
 | 15. Git | - |
