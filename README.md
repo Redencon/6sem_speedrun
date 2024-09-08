@@ -46,7 +46,7 @@ Have a nice day reading all of this!
 | 15. Git | - |
 | 16. numpy | - |
 | 17. pandas | 0:01:19 |
-| 18. Visualization | - |
+| 18. Visualization | 0:23:48 |
 | 19. Databases | - |
 | 20. sqlite3 | - |
 | 21. ML - intro | - |
