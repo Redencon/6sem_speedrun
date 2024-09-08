@@ -45,7 +45,7 @@ Have a nice day reading all of this!
 | 14. Sockets | - |
 | 15. Git | - |
 | 16. numpy | - |
-| 17. pandas | - |
+| 17. pandas | 0:01:19 |
 | 18. Visualization | - |
 | 19. Databases | - |
 | 20. sqlite3 | - |
