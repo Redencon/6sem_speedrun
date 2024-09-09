@@ -48,7 +48,7 @@ Have a nice day reading all of this!
 | 17. pandas | 0:01:19 |
 | 18. Visualization | 0:23:48 |
 | 19. Databases | - |
-| 20. sqlite3 | - |
+| 20. sqlite3 | 0:20:44 |
 | 21. ML - intro | - |
 | 22. scikit-learn - basics | - |
 | 23. scikit-learn - preparations | - |
